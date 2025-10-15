@@ -97,7 +97,7 @@ This fashion blog is an all in one blog and shop where you can look at inspired 
 
    Edit the `_config.yml` file to change any settings you want. The settings in the file are self-explanatory, and there are comments inside to help you understand what each setting does. After making changes, click the "Commit changes" button to save them.
 
-7. **Congratulations! You Have a Website!**
+7. **Congratulations!**
 
    If you named the repository `YOURUSERNAME.github.io`, your website should be ready in a minute or two at `https://YOURUSERNAME.github.io`. If you used a different name, your website will be available at `https://YOURUSERNAME.github.io/REPOSITORYNAME`. Every time you make a change to any file, your website will be rebuilt and updated in about a minute.
 
