@@ -24,7 +24,7 @@ If you like it please think on supporting my job:
 
 ## Description
 
-Wind is a clean, minimalistic Jekyll theme designed to offer a delightful blogging experience. With a focus on simplicity and aesthetics, Wind brings an elegant touch to your blog or personal website.
+This fashion blog is an all in one blog and shop where you can look at inspired looks and purchase my creations all in one place!
 
 ## Sites Using It (If you have a site using this theme please send me a PR including it here)
 
