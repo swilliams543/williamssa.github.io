@@ -32,13 +32,13 @@ Wind is a clean, minimalistic Jekyll theme designed to offer a delightful bloggi
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+- [Fashion Blog]
+- [Inspired Looks]
+- [Women's Clothing]
+- [Dresses]
+- [Blouses]
+- [Bottoms]
+- [Accessories]
 
 ## Features
 
